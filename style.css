@@ -275,3 +275,8 @@ section {
     position: relative;
     top: 20px;
 } */
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}

@@ -1,1 +1,1 @@
-alert("Malware alert, cancel incoming downloads?")
+alert("Malware alert. Canceling incoming download requests")
